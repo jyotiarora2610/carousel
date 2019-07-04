@@ -1,0 +1,8 @@
+body {
+  font-family: sans-serif;
+}
+
+.carouselContainer {
+  display: flex;
+  align-items: center;
+}
